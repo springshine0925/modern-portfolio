@@ -20,8 +20,8 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+            <span className="text-accent">Wilson Chan</span><br />
+            Sr. Full Stack Engineer <br />
           </motion.h1>
 
           {/* subtitle */}
@@ -32,10 +32,14 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Senior full stack engineer with over 7 years of experience, specializing
+            in full-stack development. Experienced with all stages of the
+            development cycle for dynamic web projects. Well-versed in numerous
+            programming languages. Strong background in project management
+            and customer relations.
+            Also have experience working in virtual teams and remote networks.
+            My strengths include creative problem-solving, time management, and
+            a detail-oriented mindset.
           </motion.p>
 
           {/* btn */}
