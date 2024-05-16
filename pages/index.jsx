@@ -71,7 +71,7 @@ const Home = () => {
 
         {/* avatar */}
         <motion.div
-          variants={fadeIn("up", 0.5)}
+          variants={fadeIn("up", 0.6)}
           initial="hidden"
           animate="show"
           exit="hidden"
