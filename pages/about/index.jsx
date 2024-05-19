@@ -7,7 +7,12 @@ import {
   FaHtml5,
   FaJs,
   FaReact,
-  FaWordpress,
+  FaVuejs,
+  // FaTs,
+  FaPhp,
+  FaPython,
+  // FaGolang,
+  FaRust
 } from "react-icons/fa";
 import {
   SiAdobephotoshop,
@@ -26,7 +31,7 @@ export const aboutData = [
     title: "skills",
     info: [
       {
-        title: "Web Development",
+        title: "",
         icons: [
           FaHtml5,
           FaCss3,
@@ -34,25 +39,26 @@ export const aboutData = [
           FaReact,
           SiNextdotjs,
           SiFramer,
-          FaWordpress,
+          FaVuejs,
+          // FaTs,
+          FaPhp,
+          FaPython,
+          // FaGolang,
+          FaRust
         ],
-      },
-      {
-        title: "UI/UX Design",
-        icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
-      },
+      }
     ],
   },
   {
     title: "awards",
     info: [
       {
-        title: "Webby Awards - Honoree",
-        stage: "2011 - 2012",
+        title: "",
+        stage: "",
       },
       {
-        title: "Adobe Design Achievement Awards - Finalist",
-        stage: "2009 - 2010",
+        title: "",
+        stage: "",
       },
     ],
   },
